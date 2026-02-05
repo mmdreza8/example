@@ -1,0 +1,5 @@
+mmdreza.zip
+*.zip
+site_log.log
+*.log
+!mmd.log
